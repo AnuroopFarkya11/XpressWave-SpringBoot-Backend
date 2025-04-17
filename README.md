@@ -23,20 +23,30 @@ XpressWave is a backend service built using **Spring Boot**, **Spring Data JPA**
 
 ---
 
-## 📦 Endpoints Overview
+[//]: # (## 📦 Endpoints Overview)
 
-### User
-- `POST /user/signup` – Register a new user
-- `POST /user/login` – User login
+[//]: # ()
+[//]: # (### User)
 
-### Product
-- `GET /products` – Fetch all products
-- `GET /products/{category}` – Filter by category
-- `POST /products` – Add new product
-- `PUT /products/{id}` – Update product
-- `DELETE /products/{id}` – Delete product
+[//]: # (- `POST /user/signup` – Register a new user)
 
----
+[//]: # (- `POST /user/login` – User login)
+
+[//]: # ()
+[//]: # (### Product)
+
+[//]: # (- `GET /products` – Fetch all products)
+
+[//]: # (- `GET /products/{category}` – Filter by category)
+
+[//]: # (- `POST /products` – Add new product)
+
+[//]: # (- `PUT /products/{id}` – Update product)
+
+[//]: # (- `DELETE /products/{id}` – Delete product)
+
+[//]: # ()
+[//]: # (---)
 
 ## 🛠️ Tech Stack
 
